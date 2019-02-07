@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-                My Login Page
+                Login Interface
         </div>
     </form>
 </body>
